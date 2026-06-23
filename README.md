@@ -2,9 +2,9 @@
 ## Project Objective 
 The main goal of this project is to analyze employee attrition and identify the key factors causing employees to leave the company. This helps the HR department take data-driven actions to improve employee retention. 
 ## Tools & Technologies Used 
--Microsoft Excel:** Data cleaning, handling missing values, and formatting. 
--SQL:** Data exploration and extracting key insights (e.g., attrition by department, average age). 
--Power BI:** Building an interactive dashboard with KPIs and visualizations. 
+* **Microsoft Excel:** Data cleaning, handling missing values, and formatting. 
+* **SQL:** Data exploration and extracting key insights (e.g., attrition by department, average age). 
+* **Power BI:** Building an interactive dashboard with KPIs and visualizations. 
 ## Dashboard Snapshot 
 * <img width="1127" height="583" alt="image" src="https://github.com/user-attachments/assets/55b0890e-a5d1-4101-bce0-d48628bb6f12" />
 * 
