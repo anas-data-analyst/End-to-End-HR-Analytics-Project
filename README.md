@@ -13,7 +13,7 @@ The main goal of this project is to analyze employee attrition and identify the 
 2. **Attrition by Salary/PayZone:** Employees in [Write Zone A or B] have a higher attrition rate. 
 3. **Attrition by Job Role:** Job roles like [Write Job Role] face the highest turnover. 
 ## Created By 
-SAMSUNG 
+
 **ANAS AFTAB** 
 Data Analyst 
 https://www.linkedin.com/in/anasaftab-in 
