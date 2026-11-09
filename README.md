@@ -7,6 +7,7 @@ The main goal of this project is to analyze employee attrition and identify the 
 * **Power BI:** Building an interactive dashboard with KPIs and visualizations. 
 ## Dashboard Snapshot 
 * <img width="1127" height="583" alt="image" src="https://github.com/user-attachments/assets/55b0890e-a5d1-4101-bce0-d48628bb6f12" />
+** *Author:** ANAS AFTAB
 * 
 ## Key Insights 
 1. **Attrition by Age:** The highest number of employees leaving belongs to the 20-30 age group. 
